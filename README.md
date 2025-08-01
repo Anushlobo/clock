@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Clock Project 🕒
 
 This is a simple **Digital Clock** web project made using **HTML, CSS, and JavaScript**. It displays the current time in **HH : MM : SS** format and updates every second.
@@ -49,4 +50,6 @@ Feel free to modify the styles or enhance it further with new features like:
 ---
 
 ### Made with ❤️ using pure HTML, CSS, and JavaScript
+
+
 
